@@ -1,36 +1,34 @@
-# Accenture-North-America-Data-Analytics-and-Visualization-Virtual-Experience-Program
+# Accenture North America Data Analytics and Visualization Virtual Experience Program (Navigating Numbers).
 
 
+## A systematic approach in bringing data to life with analytics & visualization using Microsoft Excel and Microsoft PowerPoint.
 
 
+This is a Virtual Experience Program found and completed on the Forage's website. It helped me to dive deep into the evolving world of data; learning data basics such as data cleaning, modeling, visualization, storytelling etc. as well as understanding what a career in data analytics could look like.. The program is self-paced and typically takes 5-6 hours to complete. Necessary files associated with this program were uploaded which include:
+
+- Completion Certificate: This is the certificate awarded at the completion of this virtual experience program.
+- Model PP template: This is the expected design template provided for after-analysis documentation.
+- Sample Content: This is a dataset provided for analysis. It was merged with the Sample User dataset to generate insights.
+- Sample Location: This is a dataset provided for analysis. It was merged with the Sample User dataset to generate insights.
+- Sample Profile: This is a dataset provided for analysis. It was merged with the Sample User dataset to generate insights.
+- Sample Reactions: This is a dataset provided for analysis. It was merged with the Sample User dataset to generate insights.
+- Sample Reaction Types: This is a dataset provided for analysis. It was merged with the Sample User dataset to generate insights.
+- Sample Session: This is a dataset provided for analysis. It was merged with the Sample User dataset to generate insights.
+- Sample User: This is the dataset provided for analysis. This is the fact table to which other dimension tables were merged to.
+- Solution Social Buzz Table: This is an excel workbook containing worksheets for the merged, transformed and cleaned datasets, pivot tables, and charts respectively.
 
 
+There were four sections in the program with distinct objectives as well as associated learnable skills, viz:
 
+1. Project Understanding: Here, I quickly got up to speed with the business problem being addressed, the project requirements and analytics team alignment. Practical skills gained from working on this task are Teamwork strategy and Project Planning. 
 
-# Red-Bull-Aviators-Virtual-Experience-Program---On-premises-Sales-Analysis
+2. Data Cleaning & Modeling: Here, the datasets were properly modelled, cleaned and transformed to create valuable insights. Practical skills gained from working on this task are Data Understanding and Data Modeling.
 
+3. Data Visualization & Storytelling: Here, appropriate visuals were created and illustrated in details, bringing the data to life and uncovering insights for the business. Practical skills gained from working on this task are Data Analysis, Storytelling and Data Visualization.
 
-## An Inferential analysis of a hypothetical dataset of randomly generated sales account from Red Bull using Microsoft Excel and Microsoft PowerPoint.
+4. Data Presentation to the Client: Here, the generated insights were presented to the client for further actions. Practical skills gained from working on this task are Presentation, Communication and Public Speaking.
 
-
-
-This is a Virtual Experience Program found and completed on the Forage's website. It provided me the opportunity to step into the shoes of a typical Red Bull Sales Analytics team member and complete tasks that replicate the work done every day, learning how to perform sales accounts data analysis, how to communicate key trends/insights, how to close sales and how to overcome sales objections. The program is self-paced and typically takes 2-3 hours to complete. Necessary files associated with this program were uploaded which include:
-
-- Certificate: This is the certificate awarded at the completion of this virtual experience program.
-- Model Dataset from Red Bull: This is the dataset provided for analysis.
-- Model Template for PowerPoint: This is the expected design template provided for after-analysis documentation.
-- Red Bull Excel Project Solution: This is an excel workbook containing worksheets for the raw dataset, the transformed/cleaned dataset,pivot tables, and charts respectively.
-- Model Answer(Video Recording Transcript): This is a copy of the response given to solve a Red Bull's customer concerns.
-
-
-There were two sections in the program with distinct objectives as well as associated learnable skills, viz:
-
-1. Account Data Analysis: Here, the dataset was analyzed to identify key trends and opportunities for sales growth and also communicate insights from the findings. Practical skills gained from working on this task are Data Analysis, Data Presentation, and Communication Strategy
-
-2. Overcoming Sales Objections: Here, the objections raised during the sales process were addressed using findings from the sales analysis which helped the company to close sale. Practical skills gain from working on this task are Sales closure, Overcoming Objections, Account Management and Communication.
-
-
-N.B. All relevant data cleaning and transformation processes for the different objectives, pivot tables and charts were already carried out on the attached excel project solution workbook. Below are the screenshots of the various charts indicating the solutions for the different objectives.
+N.B. All relevant data merging, cleaning and transformation processes for the different objectives, pivot tables and charts were already carried out on the attached Solution Social Buzz Table workbook. Below are the screenshots of the various charts indicating the solutions for the data visualization, storytelling and presentation objectives:
 
 
 
