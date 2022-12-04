@@ -28,84 +28,125 @@ There were four sections in the program with distinct objectives as well as asso
 
 4. Data Presentation to the Client: Here, the generated insights were presented to the client for further actions. Practical skills gained from working on this task are Presentation, Communication and Public Speaking.
 
-N.B. All relevant data merging, cleaning and transformation processes for the different objectives, pivot tables and charts were already carried out on the attached Solution Social Buzz Table workbook. Below are the screenshots of the various charts indicating the solutions for the data visualization, storytelling and presentation objectives:
+
+
+
+#### PROJECT UNDERSTANDING.
+
+This section describes the client(Social Buzz) overview and their requirements.
+
+- Client overview: This is a small social media company with little resources for scalability. They need guidance for their IPO coming up the following year and need to learn Big Data Practices from a large corporation standpoint; which is why they outsourced the task to our company(a better experienced data management company).
+
+- Client requirements: They want an audit of their big data practices, an analysis of their content categories(highlighting the top 5 categories in terms of aggregate popularity and our recommendations for a successful IPO. The project was estimated by the company's data analytics team to last for about 3 months.
+
+- Company duties: The company team will be carrying out the following responsibilities
+1. Create up-to-date big data best practices presentation.
+2. Extract sample datasets from Social Buzz database using SQL.
+3. Onsite audit of their data center.
+4. Merging of sample dataset tables.
+5. Virtual session with Social Buzz team to present previous clients' success stories relevant to them.
+6. Prepare best practices document for Social Buzz IPO.
+7. Load sample dataset into Accenture Sandbox DB.
+8. Technology architecture workshop with Social Buzz data team to understand their technology landscape and stress-testing their technology to identify weak spots.
+9. Communicate with previous IPO companies within our client base for reference stories.
+10. Analysis of sample datasets with visualizations
+11. Full documentation of the process to guide Social Buzz through for IPO.
 
 
 
 
-#### ACCOUNTS DATA ANALYSIS.
+### DATA CLEANING AND MODELLING.
 
-This section cotains PowerPoint slides showing the various charts as solutions for the given objectives as well as observational insights from the charts.
+This section describes all the relevant data merging, cleaning and transformation processes for the different objectives, pivot tables and charts as already carried out in the attached Solution Social Buzz Table workbook. 
+
+
+
+
+#### DATA VISUALIZATION, STORYTELLING AND PRESENTATION.
+
+This section contains PowerPoint slides showing the various charts as solutions for the given objectives as well as observational insights from the charts. Below are the screenshots of the various charts indicating the solutions for the data visualization, storytelling and presentation objectives:
 
 - The content slide page.
 
 
-![slide_1_content](https://user-images.githubusercontent.com/112668327/205489809-cf16e7b3-a8b2-4833-9cd6-84bdcd3934e5.png)
 
 
-- The Sales Growth of all Accounts and Account Types:
-
-
-![slide_2_sales_growth_of_accounts](https://user-images.githubusercontent.com/112668327/205483222-6806cd12-9ee3-4d0e-9dab-58315ba6bdb4.png)
-
-
-- The 5-Year Compound Annual Growth Rate (CAGR) in Sales Volume: This was obtained using RRI formular in Microsoft Excel.
-
-
-![slide_3_five_years_sales_cagr](https://user-images.githubusercontent.com/112668327/205483243-6ea46461-6628-48e7-bb9f-0c7a312216e9.png)
-
-
-- The Best and Worst Performing Accounts in each Account Type (using the calculated 5-Year CAGR):
-
-
-![slide_4_best_and_worst_performers](https://user-images.githubusercontent.com/112668327/205483261-051911cc-88d4-445a-8fa1-fbfe8f07c5c1.png)
-
-
-- The Total Sales volume for all Account Types per Year:
-
-
-![slide_5_total_sales_volume](https://user-images.githubusercontent.com/112668327/205483270-63099a4f-933f-429e-abaa-58659ecf845a.png)
-
-
-- The Sales Growth Trend of all Accounts.
-
-
-![slide_6_sales_yearly_growth](https://user-images.githubusercontent.com/112668327/205483278-ee5362eb-e2f8-4431-8d00-c3ce217884e1.png)
-
-
-- Key observations.
-
-
-![slide_7_observations](https://user-images.githubusercontent.com/112668327/205483309-e022af9d-4295-4ad0-b91a-5c6fd4d23656.png)
+![slide_2_content](https://user-images.githubusercontent.com/112668327/205502038-0f323c18-6b87-4793-b4a4-d53b98c4d64c.png)
 
 
 
 
-#### OVERCOMING SALES OBJECTION.
-
-This section describes how I handled sales objection by one of the worst perfoming accounts, as indicated by the sales analysis and used insights from the analysis to convince her so as to achieve sales closure.
-
-1. Account Attribute: This is the worst performing account with -53% CAGR in 5 years. She has small stock quantity of our product assortments and applies few marketing strategies.
-2. Customer Concerns: She complained earlier that our products are quite expensive compared to other energy drinks. Also, she complained that her customers do not ask for our products from her bar.
-3. Objective: Using a collaborative, pro-active, problem-solving, and personality-winning approach, send her a short video clip(2-3 minutes) suggesting reasons why you think she may have negative experiences with our products and also suggest solutions that can boost her sales experiences with our products positively.
+- The Details of the Project:
 
 
-- Below is a speech-to-text transcript copy of the message I sent, addressing the customer's concerns (The Red Bull's model answer for this section was uploaded also).
 
 
-" Hi Lorena. My name is Uzochukwu Onwuegbu Vincent. I am a Red Bull Sales Representative. I called in to suggest few things around the concerns you raised to me last time, about our products.
+![slide_3_projectdetails](https://user-images.githubusercontent.com/112668327/205502097-67c70faf-7c86-4f9b-a4a5-6edf4e1eb236.png)
 
-In our last discussion, you mentioned our products are quite expensive compared to other energy drinks you sell and customers do not ask for our products in your bar. As part of our company values, I want to assure you that yor concerns are our concerns and also, your satisfaction and business success story is important to us as a company. So, here are the few things I think you can do to have a good experience with our products, which I shared with other customers who had similar challenges in the past but are currently having huge sales growth.
 
-Energy drinks are fast-growing products especially for a point-of-sales business type like yours. We have discovered that customers usually prefer to patronise a business that have a variety of product choices which usually drives in more sales turnover compared to businesses with fewer product choices. I can show you the sales trend to support this statement if you would want that. You can try and stock up more varieties of our products which I believe is a game-changer for other people who had similar issues in the past.
 
-Also, good business image and branding are key and somewhat tied to its success. To drive more customer patronage and sales of our products, I will suggest you start implementing some trendy marketing strategies such as digital screens, coolers, posters etc. for a business type like your bar. It worked for others and I think it can work for you too.
 
-I really hope these suggestions can go a long way in helping your business drive in more sales. Feel free to also contact us if you have any other challenge and especially, I will like to hear your positive response as soon as possible. Thank you and have a good day, Lorena."
+- The Data Analytics Team Members.
+
+
+
+
+![slide_4_analyticsteam](https://user-images.githubusercontent.com/112668327/205502143-4fb284e4-6545-4239-ba10-9a81e967031e.png)
+
+
+
+
+- The Process Flow
+
+
+
+
+![slide_5_processflow](https://user-images.githubusercontent.com/112668327/205502216-d792bd02-d6ed-458b-9332-d9cc550931e6.png)
+
+
+
+
+- The Top five content categories:
+
+
+
+
+![slide_6_topfivecontents](https://user-images.githubusercontent.com/112668327/205502253-1ca1ddab-6a18-4ebe-ba92-1c739e887ee5.png)
+
+
+
+
+- The Content Post Counts per Month.
+
+
+
+
+![slide_7_monthlypostcounts](https://user-images.githubusercontent.com/112668327/205502326-b820297a-44a9-4eaa-b5e9-c6ddd8eb3696.png)
+
+
+
+
+- The Content posts per Age Group and Sentiments.
+
+
+
+
+![slide_8_postbyagegroupandsentiments](https://user-images.githubusercontent.com/112668327/205502407-736b9335-f80f-4e75-b31e-a49d6ff6b423.png)
+
+
+
+
+- Key Insights.
+
+
+
+
+![slide_9_keyinsights](https://user-images.githubusercontent.com/112668327/205502351-bee872a6-3263-4da4-aab6-072ab2274180.png)
+
 
 
 
 
 ## CONCLUSION
 
-This is an amazing experience for me as I discovered a new sales analysis technique using Compound Annual Growth Rate(CAGR) calculated on Microsoft Excel as well as learnt how to handle sales objections. The Completion Certificate for this program was uploaded.
+This is a great experience for me and the peak of the whole task for me was the story telling part, where I had to present my analysis to the client. It was an ideal program to learn about the role of a data analyst. The Completion Certificate for this program was uploaded also.
